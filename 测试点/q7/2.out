@@ -1,0 +1,47 @@
+Main
+->  data
+    image
+Main
+    data
+->  image
+image
+    ASC
+Main
+->  data
+    image
+Main
+    data
+->  image
+Main
+->  data
+    image
+data
+->  data1 101
+    data2 20.1
+    data3 1.23
+Main
+->  data
+    image
+Main
+    data
+->  image
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
+image
+    ASC
